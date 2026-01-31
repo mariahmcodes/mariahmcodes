@@ -1,33 +1,38 @@
-# 👋 Hi, I’m Mariah!
+# 👋 Hi, I’m Mariah Malveira Carvalho!
 
-🎓 I'm a Computer Science student at [Unifor](https://www.unifor.br/) (Fortaleza, Brazil)  
-💡 Passionate about tech, languages, and global opportunities  
-🌎 I speak Portuguese 🇧🇷, English 🇺🇸, French 🇫🇷, and Spanish 🇪🇸  
+### 🚀 Software Development Intern @ M. Dias Branco
+**Computer Science Student @ UNIFOR 🇧🇷**
 
----
-
-### 🌱 Currently learning:
-- Harvard’s [CS50](https://cs50.harvard.edu/x/) course (Computer Science fundamentals)
-- Python 🐍 and Web Development (HTML, CSS, JavaScript)
-- Git and GitHub basics
+I’m a passionate developer focused on building modern, high-performance web applications. Currently, I'm bridging the gap between academic fundamentals and corporate software development.
 
 ---
 
-### 🚀 Projects I’m working on:
-- Personal portfolio website 💻
-- Text-based games (Python)
-- Small apps to learn frontend and backend development
+### 🛠️ Tech Stack & Skills
+*   **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+*   **Backend & Tools:** Node.js, Python, C, SQL, Git/GitHub
+*   **Fundamentals:** Algorithms, Data Structures (CS50 Alumna 🎓)
+*   **Infrastructure:** Vercel, Headless CMS (WordPress), Deployment & DNS management
 
 ---
 
-### 🎯 Goals:
-- Do a university **exchange program** or tech internship abroad 🌍  
-- Improve as a developer while studying at university  
-- Work remotely in **international tech teams**  
-- Learn more languages (maybe Italian or German soon!)
+### 🌎 Languages & Global Mindset
+*   **Portuguese:** Native 🇧🇷
+*   **English:** Fluent 🇺🇸
+*   **French:** Fluent 🇫🇷 (Academic exchange @ Lycée Beaumont, France)
+*   **Spanish:** Intermediate 🇪🇸
 
 ---
 
-### 📫 Let’s connect!
-- Email: mariahmcarvalho01@gmail.com
-- LinkedIn:  
+### 📈 Current Focus
+*   Excelling in my Software Development Internship at **M. Dias Branco**.
+*   Contributing to research and development projects at **UNIFOR**.
+*   Expanding my knowledge in scalable architectures and cloud computing.
+
+---
+
+### 📫 Let's Connect!
+*   **LinkedIn:** [linkedin.com/in/mariah-malveira-carvalho](https://www.linkedin.com/in/mariah-malveira-carvalho-1895043a6 )
+*   **Email:** mariahmcarvalho.tech@gmail.com
+
+---
+*"Passionate about tech, languages, and global opportunities."*
