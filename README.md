@@ -36,7 +36,7 @@ My technical skills are complemented by a unique global perspective, honed by pr
 
 ### 📫 Let's Connect!
 
-*   **LinkedIn:** [linkedin.com/in/mariah-malveira-carvalho-1895043a6](https://linkedin.com/in/mariah-malveira-carvalho-1895043a6 )
+- **LinkedIn:** [linkedin.com/in/mariahmcodes](https://www.linkedin.com/in/mariahmcodes )
 *   **Email:** mariahmcarvalho.tech@gmail.com
 
 ---
